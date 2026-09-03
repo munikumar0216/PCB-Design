@@ -45,4 +45,4 @@ The objective of this project was to design a practical switching power-supply P
 |     J2    |      Output Connector     |  2-pin, 2.54 mm |     THT    | 
 
 
-> *Verify the final footprint/value combination against the actual BOM before manufacturing.
+"Designed and verified at the schematic, PCB, and manufacturing-data level."
